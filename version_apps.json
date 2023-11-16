@@ -1,3 +1,15 @@
 {
-	"blitar_kader" : "1.0.1+1"
+	"daftar_app" : [
+		{
+			"app_name" : "Blitar_Kader",
+			"version" : "1.0.1+1",
+			"url_download" : "https://drive.google.com/open?id=1018nwVmwxeWa-eB2qzMprtQtSj3y5KE7&usp=drive_fs"
+		},
+		{
+			"app_name" : "Blitar_Ekesling",
+			"version" : "1.0.1+1",
+			"url_download" : "https://drive.google.com/open?id=1-oFFAQAD0Q3hlGmP5cimg8IhrHeEjQTs&usp=drive_fs"
+		},
+	],
+	"last_update" : "16-11-2023
 }
